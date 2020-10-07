@@ -1,0 +1,264 @@
+
+body{
+    height: 1210px;
+    width: 1000px;
+}
+.box1 {
+    height: 1190px;
+    width: 1000px;
+    background-color:#ADBFC9;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    margin-top: 20px;
+}
+.box2 {
+    height: 890px;
+    width: 750px;
+    background-color: #F2F2F2;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 120px;
+    margin: auto;
+}
+.box3{
+    width: 1000px;
+    height: 90px;
+    background-color: #111224;
+    position: absolute;
+    bottom: 0px;
+}
+.box4{
+    background-color: #F2F2F2;
+    height: 160px;
+    position: relative;
+    width: 100%;
+    flex-flow: row;
+}
+.box5{
+    height: 100%;
+    background-color: #F2F2F2;
+    width: 40%;
+    left: 20px;
+    top: 0;
+    position: absolute;
+}
+.box5 h1{
+    font-size: 50px;
+    color: #606A69;
+    padding: 0;
+    margin-bottom: 0px;
+    margin-left: 15px;
+    text-transform: uppercase;
+}
+.box5 p{
+    margin-top: 0px;
+    color: #7E888A;
+    letter-spacing: 10px;
+    word-spacing: 5px;
+    font-size: 25px;
+    text-transform: uppercase;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    margin-left: 15px;
+}
+.box6{
+    height: 100%;
+    background-color: #F2F2F2;
+    width: 50%;
+    top: 0;
+    right: 0;
+    position: absolute;
+}
+.box6 p{
+    right: 70px;
+    position: absolute;
+    color: #9B9F9E;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    padding-top: 0px;
+    margin: 0px;
+}
+.box6 h1 {
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    color: #5E8189;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 0px;
+    margin: 0px;
+}
+.box5 .p2{
+    font-size: 10px;
+    letter-spacing: 0px;
+    word-spacing: 5px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.box7{
+    background-color: #D2DADD;
+    color: #6A8893;
+    width: 100%;
+    height: 300px;
+    flex-flow: row;
+    position: relative;
+}
+.box8{
+    height: 80%;
+    width: 33%;
+    background-color: #D1DBDD;
+    position: absolute;
+    left: 30px;
+    margin-top: 30px;
+}
+.box9{
+    height: 80%;
+    width: 57%;
+    background-color: #4F6F7C;
+    position: absolute;
+    margin-top: 30px;
+    right: 30px;
+    display: grid;
+    place-items: center;
+    text-transform: uppercase;
+}
+.box10{
+    width: 100%;
+    height: 46%;
+    background-color: #4F6F7C;
+    margin-bottom: 20px;
+    left: 0;
+    bottom: 30px;
+    display: grid;
+    place-items: center;
+    text-transform: uppercase;
+}
+.box11{
+    width: 100%;
+    height: 46%;
+    background-color: #4F6F7C;
+    display: grid;
+    place-items: center;
+    text-transform: uppercase;
+}
+.box12{
+    height: 400px;
+    width: 100%;
+    background-color: #F2F2F2;
+    position: relative;
+    top: 30px;
+}
+.box13{
+    height: 100%;
+    width: 45%;
+    background-color: #F2F2F2;
+    left: 30px;
+    position: absolute;
+}
+.box13 h1{
+    text-transform: uppercase;
+    margin: 0px;
+    letter-spacing: 14px;
+    color: #3E5B61;
+}
+.box13 h3{
+    text-transform: uppercase;
+    margin: 0px;
+    letter-spacing: 3px;
+    color: #6F7478;
+}
+.box13 p{
+    color: #B8B9BB;
+}
+.box13 a{
+    text-decoration: none;
+    bottom: 35px;
+    position: absolute;
+    color: #2f6e7c;
+}
+.box14{
+    height: 80%;
+    width: 35%;
+    background-color: #F2F2F2;
+    position: absolute;
+    top: 0;
+    right: 30px;
+}
+.box14 h1{
+    margin: 0;
+    text-transform: uppercase;
+    font-size: 35px;
+    color: #909A99;
+}
+.box15{
+    height: 88%;
+    width: 100%;
+    background-color: #F2F2F2;
+    position: relative;
+}
+.box16{
+    height: 100%;
+    background-color: #F2F2F2;
+    width: 20%;
+}
+.box16 h1{
+    padding-top: 30px;
+}
+.box17{
+    height: 100%;
+    width: 80%;
+    background-color: #F2F2F2;
+    right: 0;
+    top: 0px;
+    position: absolute;
+}
+.box17 p{
+    color: #BABBBD;
+}
+.box18{
+    background-color: #F2F2F2;
+    height: 100px;
+    width: 33%;
+    bottom: 40px;
+    right: 40px;
+    position: absolute;
+}
+.box18 p{
+    color: #BABBBD;
+}
+.box19{
+    height: 100%;
+    width: 50%;
+    left: 0px;
+    margin: 0px;
+}
+.box19 p{
+    color: #C3C4C9;
+    font-size: 50px;
+    padding-top: 20px;
+    padding-left: 30px;
+    margin: 0px;
+}
+sup{
+    font-size: 10px;
+}
+span{
+    color: #FDFEFF;
+}
+.box20{
+    height: 100%;
+    width: 40%;
+    right: 0px;
+    top: 0px;
+    background-color: #111224;
+    position: absolute;
+    display: grid;
+    place-items: center;
+}
+.box20 a{
+    color: #C3C4C9;
+    font-size: 30px;
+    text-decoration: none;
+}
